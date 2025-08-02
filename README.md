@@ -1,6 +1,3 @@
-## Architecture Diagram
-![Architecture](./architecture.svg)
-
 ## Features
 *   Provides a user interface (UI) for interacting with the system.
 *   Centralized server manages requests and orchestrates services.
@@ -11,3 +8,9 @@
 *   Employs new EC2 instances for scalable compute resources.
 *   Stores and retrieves data efficiently with a new S3 bucket.
 *   Enables dedicated processing using new EC2 instances.
+
+## Architecture Diagram
+![Architecture](./architech-diagram/architecture.svg)
+
+---
+*Generated with [Architech](https://architech.dev)*
